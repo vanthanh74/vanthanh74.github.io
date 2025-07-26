@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-09-15
 venue: 'Journal of Computational Physics'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://vanthanh74.github.io/files/FVMlinearwave.pdf'
+paperurl: 'http://vanthanh74.github.io/files/paperFVMlinearwave.pdf'
 citation: 'M.-H. Do, V.-T. Nguyen, P. Omnes. &quot;Analysis of dissipation operators that damp spurious modes while maintaining discrete approximate geostrophic equilibriums for the B-grid staggered scheme on triangular meshes.&quot; <i>Journal of Computational Physics
 </i>. Volume 489. 2023. 112261. ISSN 0021-9991. https://doi.org/10.1016/j.jcp.2023.112261.'
 ---
