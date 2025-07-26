@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-paperDLMHETC
 excerpt: ''
 date: 2025-07-18
 venue: "International Journal of Mechanical Sciences"
-paperurl: "http://van-thanh.github.io/files/paperDLMHETC.pdf"
+paperurl: "http://vanthanh74.github.io/files/paperDLMHETC.pdf"
 citation: "V.-T. Nguyen, V.-H. Nguyen, S. Naili. \"Deep Learning-Based Multiscale Prediction of Composite Aerogels' Effective Thermal Conductivity.\" <i>International Journal of Mechanical Sciences</i>. Volume 489. 2023. 112261. ISSN 0021-9991. https://doi.org/10.1016/j.jcp.2023.112261."
 ---
 
