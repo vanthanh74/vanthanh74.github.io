@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-07-01
 venue: 'Journal of Computational Physics'
 #slidesurl: 
-paperurl: 'http://van-thanh.github.io/files/paperReducedmodelParareal.pdf'
+paperurl: 'http://vanthanh74.github.io/files/paperReducedmodelParareal.pdf'
 #bibtexurl: 
 citation: 'L. Grigori, S. A. Hirstoaga, V.-T. Nguyen, J. Salomon. &quot;Reduced model-based parareal simulations of oscillatory singularly perturbed ordinary differential equations.&quot; <i>Journal of Computational Physics</i>. Volume 436. 2021. 110282. ISSN 0021-9991. https://doi.org/10.1016/j.jcp.2021.110282.'
 ---
