@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-03-01
 venue: 'Numerical Algorithms'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://van-thanh.github.io/files/paperPararealGMRES.pdf'
+paperurl: 'http://vanthanh74.github.io/files/paperPararealGMRES.pdf'
 citation: 'V.-T. Nguyen, L. Grigori. &quot;Interpretation of parareal as a two-level additive Schwarz in time preconditioner and its acceleration with GMRES.&quot; <i>Numerical Algorithms
 </i>. Volume 94. 2023. 29-72. ISSN 1572-9265. https://doi.org/10.1007/s11075-022-01492-8.'
 ---
