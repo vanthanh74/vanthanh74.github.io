@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-phdthesis
 excerpt: ''
 date: 2022-05-31
 venue: 'UPMC, Sorbonne University'
-paperurl: 'http://van-thanh.github.io/files/phdthesis.pdf'
+paperurl: 'http://vanthanh74.github.io/files/phdthesis.pdf'
 citation: "V.-T. Nguyen. \"Acceleration techniques of the Parareal algorithm for solving some differential equations.\" <i>UPMC, Sorbonne University</i>. 2022. https://theses.hal.science/tel-03950073."
 ---
 
