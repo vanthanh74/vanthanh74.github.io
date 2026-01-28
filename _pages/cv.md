@@ -22,7 +22,43 @@ Education
 
 Research & Professional Experience
 ======
+* Aug 2025 - now: R&D Engineer 
+	* Start-up Ery&Geno, Paris, France.
+	* Description: We conduct research and develop bioimpedance-based devices for the early prediction of human diseases. 
+	* Skills: Python · MATLAB · Numerical Simulation · Multiscale Homogenization Modeling · COMSOL Multiphysics · Finite Element Method · ImageJ
 
+* Jan 2025 – July 2025: Researcher
+  * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
+  * Supervisors: Salah Naili & Vu-Hieu Nguyen.
+  * Description: Working on articles to get them accepted for publications in journals.
+  * Skills: Python · Deep Learning · TensorFlow · Keras · Scikit-Learn · MATLAB · Numerical Simulation · Multiscale Homogenization Modeling · COMSOL Multiphysics · Finite Element Method · Rhino 3D · ImageJ
+
+* Dec 2023 - Dec 2024: Postdoctoral researcher
+  * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
+  * Supervisors: Salah Naili & Vu-Hieu Nguyen.
+  * Description: We study the multi-physical behavior of aerogels in development and to better understand the microstructural effects on their effective mechanical and thermal properties. We developed deep neural networks, specifically multilayer perceptron models, based on data generated from the multiscale homogenization models to predict the effective properties of composite materials.
+  * Skills: Python · Deep Learning · TensorFlow · Keras · Scikit-Learn · MATLAB · Numerical Simulation · Multiscale Modeling · COMSOL Multiphysics · Finite Element Method · Rhino 3D · ImageJ
+
+* June 2022 – Nov 2023: Researcher
+  * ALPINES team, Inria Paris, Paris, France.
+  * Advisor: Laura Grigori
+  * Description: Working on articles to get them accepted for publications in journals, participating in conferences.
+  * Skills: Numerical Analysis · Computer Science · High Performance Computing (HPC) · Applied Mathematics · Python · MATLAB · FreeFem++ · C/C++
+  
+* Nov 2017 – April 2022: Doctoral student
+  * ALPINES team, Inria Paris, Paris, France.
+  * Advisor: Laura Grigori
+  * Description: This PhD thesis focuses on some techniques to accelerate Parareal’s convergence in solving some differential equations. Specifically, we study:
+	• An interpretation of parareal as a two-level additive Schwarz in time preconditioner and, based on that, a variant that accelerates convergence by using a GMRES-type procedure.
+	• The acceleration of GMRES using a deflation technique of the smallest singular values of the problem.
+	• The idea of using a reduced model which is based on the two-scale asymptotic expansion for the coarse propagator in Parareal framework.
+  * Skills: Numerical Analysis · Computer Science · High Performance Computing (HPC) · Applied Mathematics · Python · MATLAB · FreeFem++ · C/C++
+
+* April 2017 – June 2017: Internship
+  * LAGA, Université Sorbonne Paris Nord, Villetaneuse, France.
+  * Advisors: Pascal Omnes, Emmanuel Audusse & Minh-Hieu Do.
+  * Description: This thesis studies a finite volume method for a well-balanced scheme using staggered grid for the first order linear wave equation with Coriolis source term.
+  * Skills:  Numerical Analysis · Finite Volume Method · MATLAB
   
 
 
