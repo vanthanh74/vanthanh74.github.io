@@ -22,11 +22,15 @@ Education
 
 Research & Professional Experience
 ======
+* Aug 2025 - now: R&D Engineer 
+	* Start-up Ery&Geno, Paris, France.
+	* Description: We conduct research and develop bioimpedance-based tools for the early prediction of human diseases. 
+	* Skills: Python · MATLAB · Numerical Simulation · Multiscale Homogenization Modeling · COMSOL Multiphysics · Finite Element Method · ImageJ
 * Jan 2025 – July 2025: Researcher
   * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
   * Supervisors: Salah Naili & Vu-Hieu Nguyen.
   * Description: Working on articles to get them accepted for publications in journals.
-
+  * Skills: Python · Deep Learning · TensorFlow · Keras · Scikit-Learn · MATLAB · Numerical Simulation · Multiscale Modeling · COMSOL Multiphysics · Finite Element Method · Rhino 3D · ImageJ
 
 * Dec 2023 - Dec 2024: Postdoctoral researcher
   * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
@@ -38,7 +42,7 @@ Research & Professional Experience
   * ALPINES team, Inria Paris, Paris, France.
   * Advisor: Laura Grigori
   * Description: Working on articles to get them accepted for publications in journals, participating in conferences.
-  
+  * Skills: Numerical Analysis · Computer Science · High Performance Computing (HPC) · Applied Mathematics · Python · MATLAB · FreeFem++ · C/C++
   
 * Nov 2017 – April 2022: Doctoral student
   * ALPINES team, Inria Paris, Paris, France.
