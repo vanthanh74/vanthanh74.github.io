@@ -10,7 +10,7 @@ redirect_from:
 Hello! Welcome to my personal website!
 
 I received a Ph.D. in Applied Mathematics (May 2022) from Sorbonne University ([LJLL](https://www.ljll.fr/)) and INRIA Paris ([ALPINES](https://team.inria.fr/alpines/)), France.
-Currently, I have been working as an R&D engineer in the start-up Ery&Geno. áđâsdsđá
+Currently, I have been working as an R&D engineer in the start-up Ery&Geno.
 
 
 Research interests
