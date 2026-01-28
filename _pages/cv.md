@@ -1,4 +1,4 @@
----
+ice---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -24,7 +24,7 @@ Research & Professional Experience
 ======
 * Aug 2025 - now: R&D Engineer 
 	* Start-up Ery&Geno, Paris, France.
-	* Description: We conduct research and develop bioimpedance-based tools for the early prediction of human diseases. 
+	* Description: We conduct research and develop bioimpedance-based devices for the early prediction of human diseases. 
 	* Skills: Python · MATLAB · Numerical Simulation · Multiscale Homogenization Modeling · COMSOL Multiphysics · Finite Element Method · ImageJ
 * Jan 2025 – July 2025: Researcher
   * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
