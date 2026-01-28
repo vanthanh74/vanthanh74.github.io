@@ -26,6 +26,7 @@ Research & Professional Experience
 	* Start-up Ery&Geno, Paris, France.
 	* Description: We conduct research and develop bioimpedance-based devices for the early prediction of human diseases. 
 	* Skills: Python · MATLAB · Numerical Simulation · Multiscale Homogenization Modeling · COMSOL Multiphysics · Finite Element Method · ImageJ
+
 * Jan 2025 – July 2025: Researcher
   * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
   * Supervisors: Salah Naili & Vu-Hieu Nguyen.
