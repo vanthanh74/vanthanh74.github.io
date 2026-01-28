@@ -31,7 +31,7 @@ Research & Professional Experience
   * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
   * Supervisors: Salah Naili & Vu-Hieu Nguyen.
   * Description: Working on articles to get them accepted for publications in journals.
-  * Skills: Python · Deep Learning · TensorFlow · Keras · Scikit-Learn · MATLAB · Numerical Simulation · Multiscale Modeling · COMSOL Multiphysics · Finite Element Method · Rhino 3D · ImageJ
+  * Skills: Python · Deep Learning · TensorFlow · Keras · Scikit-Learn · MATLAB · Numerical Simulation · Multiscale Homogenization Modeling · COMSOL Multiphysics · Finite Element Method · Rhino 3D · ImageJ
 
 * Dec 2023 - Dec 2024: Postdoctoral researcher
   * Biomécanique team, Université Paris-Est Créteil Val-de-Marne, MSME, Créteil, France.
