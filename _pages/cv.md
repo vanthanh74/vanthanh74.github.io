@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download Full CV (PDF)](http://vanthanh74.github.io/files/van-thanh-cv.pdf)
+[Download Full CV (PDF)](http://vanthanh74.github.io/files/CV_Van-Thanh_2026.pdf)
 
 {% include base_path %}
 
