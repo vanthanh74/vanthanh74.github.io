@@ -22,7 +22,14 @@ Education
 
 Research & Professional Experience
 ======
-* Aug 2025 - now: R&D Engineer 
+
+* Sept 2026 - Feb 2028: Postdoctoral researcher
+  * EcoTEA-ABTE team, Université Caen Normandie, Caen, France.
+  * Supervisors: Héni Dallagi, Ridha Mosrati & Joël Bréard.
+  * Description: We develop multiscale models coupling hydrodynamics, rheology and microbial kinetics to describe the evolution of the biomass, oxygen and substrate mass transfer during the fermentation of the biopolymer PHA in the bioreactors at laboratory-scale and pilot-scale. Based on those models, a digital twin operation of the PHA fermentation process will be developed and validated through experimental data.
+  * Skills: Mathematical modeling · Multiscale Modeling · COMSOL Multiphysics · MATLAB · Numerical Simulation · Digital Twin · PHA · Optimization
+
+* Aug 2025 - April 2026: R&D Engineer 
 	* Start-up Ery&Geno, Paris, France.
 	* Description: We conduct research and develop bioimpedance-based devices for the early prediction of human diseases. 
 	* Skills: Python · MATLAB · Numerical Simulation · Multiscale Homogenization Modeling · COMSOL Multiphysics · Finite Element Method · ImageJ
