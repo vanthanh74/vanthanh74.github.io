@@ -10,17 +10,17 @@ redirect_from:
 Hello! Welcome to my personal website!
 
 I received a Ph.D. in Applied Mathematics (May 2022) from Sorbonne University ([LJLL](https://www.ljll.fr/)) and INRIA Paris ([ALPINES](https://team.inria.fr/alpines/)), France.
-Currently, I have been working as an R&D engineer in the start-up Ery&Geno.
+Currently, I have been working as a postdoctoral researcher in EcoTEA-ABTE, University Caen Normandie.
 
 
 Research interests
 ======
 - Numerical methods for PDEs
-- Numerical simulations
 - Parallel computing
 - Krylov subspace methods
+- Mathematical modeling
 - Multiscale modeling
-- Machine learning
+- Deep learning
 - Computational tools
 
 
@@ -43,4 +43,6 @@ Research projects and collaborations
 	- Topic: Porous, bio-sourced and sustainable materials for civil engineering
 	- Partners: [MMCD](http://mmcd.univ-paris-est.fr/), [ICMPE](https://www.icmpe.cnrs.fr/), [MSME](https://msme.univ-gustave-eiffel.fr/)
 
-
+- [JCJC](https://depot-dossier.unicaen.fr/aap-unicaen---jeunes-chercheurs-jeunes-chercheuses?view=programme)
+	- Topic: Multi-scale Modeling and Digital Twin for PHA Biopolymer Production
+	- Partners: [EcoTEA](https://abte.eu/index.php/ecotea/), [MALIM](https://abte.eu/index.php/malim/), [TocEMAC](https://abte.eu/index.php/toxemac/)
