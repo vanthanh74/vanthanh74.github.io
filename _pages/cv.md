@@ -23,7 +23,7 @@ Education
 Research & Professional Experience
 ======
 
-* Sept 2026 - Now: Postdoctoral researcher
+* Sept 2026 - now: Postdoctoral researcher
   * EcoTEA-ABTE team, Université Caen Normandie, Caen, France.
   * Supervisors: Héni Dallagi, Ridha Mosrati & Joël Bréard.
   * Description: We develop multiscale models coupling hydrodynamics, rheology and microbial kinetics to describe the evolution of the biomass, oxygen and substrate mass transfer during the fermentation of the biopolymer PHA in the bioreactors at laboratory-scale and pilot-scale. Based on those models, a digital twin operation of the PHA fermentation process will be developed and validated through experimental data.
