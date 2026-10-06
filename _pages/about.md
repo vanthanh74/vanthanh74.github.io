@@ -44,5 +44,5 @@ Research projects and collaborations
 	- Partners: [MMCD](http://mmcd.univ-paris-est.fr/), [ICMPE](https://www.icmpe.cnrs.fr/), [MSME](https://msme.univ-gustave-eiffel.fr/)
 
 - [JCJC](https://depot-dossier.unicaen.fr/aap-unicaen---jeunes-chercheurs-jeunes-chercheuses?view=programme)
-	- Topic: Multi-scale Modeling and Digital Twin for PHA Biopolymer Production
+	- Topic: Multiscale Modeling and Digital Twin for PHA Biopolymer Production
 	- Partners: [EcoTEA](https://abte.eu/index.php/ecotea/), [MALIM](https://abte.eu/index.php/malim/), [TocEMAC](https://abte.eu/index.php/toxemac/)
